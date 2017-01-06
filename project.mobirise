@@ -1,0 +1,96 @@
+{
+  "settings": {
+    "name": "NewSite-01-06_1721",
+    "currentPage": "Få Apple premiepakke!",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Roboto",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 4,
+    "versionPublish": "3.10.5"
+  },
+  "pages": {
+    "Få Apple premiepakke!": {
+      "settings": {
+        "main": true,
+        "title": "Få Apple premiepakke!",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><a href=\"https://www.cpagrip.com/show.php?l=0&amp;u=96855&amp;id=4639&amp;tracking_id=\"><b>Copyright (c) 2017 Apple.</b></a><a href=\"https://www.cpagrip.com/show.php?l=0&amp;u=96855&amp;id=4639&amp;tracking_id=\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/chrispdesign-bg-2-2000x1334-3.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Få Apple premiepakke!<br><br>",
+          "text": "<b style=\"font-style: normal;\">Få Apple premiepakke! Skriv inn ditt mobilnummer nå for en sjanse til å vinne.<br>skriv inn nummeret og svar på noen spørsmål og komme i gang kanskje du vinner.<br>det er bare 3 minutter hva du kan gå tapt? ingenting. så komme i gang nå.</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.cpagrip.com/show.php?l=0&amp;u=96855&amp;id=4639&amp;tracking_id=\" data-toolbar=\"-mbrBtnMove\">KLIKK HER FOR Å STARTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">KLIKK HER FOR Å STARTE</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
